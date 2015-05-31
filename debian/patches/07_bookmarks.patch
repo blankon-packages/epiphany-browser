@@ -1,0 +1,35 @@
+--- a/data/default-bookmarks.rdf.in
++++ b/data/default-bookmarks.rdf.in
+@@ -34,4 +34,28 @@
+          https://duckduckgo.com/?q=%s&amp;t=epiphany&amp;kl=fi-fi&amp;kad=fi_FI -->
+     <_ephy:smartlink>https://duckduckgo.com/?q=%s&amp;t=epiphany</_ephy:smartlink>
+   </item>
++  <item rdf:about="http://blankonlinux.or.id/">
++    <_title>BlankOn Linux</_title>
++    <_link>http://blankonlinux.or.id/</_link>
++  </item>
++  <item rdf:about="https://dev.blankonlinux.or.id/">
++    <_title>BlankOn Developers</_title>
++    <_link>https://dev.blankonlinux.or.id/</_link>
++  </item>
++  <item rdf:about="https://data.blankon.id/">
++    <_title>BlankOn Open Data API Portal</_title>
++    <_link>https://data.blankon.id/</_link>
++  </item>
++  <item rdf:about="http://serambi.blankonlinux.or.id/">
++    <_title>BlankOn Planet - another story from BlankOn Developers</_title>
++    <_link>http://serambi.blankonlinux.or.id/</_link>
++  </item>
++  <item rdf:about="http://www.debian.org/">
++    <_title>Debian (BlankOn is based on Debian)</_title>
++    <_link>http://www.debian.org/</_link>
++  </item>
++  <item rdf:about="http://ayo.semuanya.di.blankon.in/">
++    <_title>BlankOn News</_title>
++    <_link>http://ayo.semuanya.di.blankon.in/</_link>
++  </item>
++  <item rdf:about="http://www.gnome.org/">
++    <_title>GNOME</_title>
++    <_link>http://www.gnome.org/</_link>
++  </item>
+ </rdf:RDF>

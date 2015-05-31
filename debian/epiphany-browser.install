@@ -1,0 +1,10 @@
+debian/epiphany-browser.sh               usr/bin
+debian/bug/control                       usr/share/bug/epiphany-browser
+usr/bin                                  usr
+usr/lib/epiphany/*/web-extensions/*.so
+usr/lib/epiphany-browser                 usr/lib
+usr/share/appdata                        usr/share
+usr/share/applications                   usr/share
+usr/share/dbus-1                         usr/share
+usr/share/gnome-shell/search-providers   usr/share/gnome-shell
+usr/share/man                            usr/share
